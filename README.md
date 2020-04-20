@@ -126,4 +126,4 @@ Please see [Heroku’s Account Verification Information](https://devcenter.herok
 
 - - -
 
-Deployed to Heroku https://github.com/ramalimanov/Google-Book-Search
+Deployed to Heroku https://agile-springs-89135.herokuapp.com/
