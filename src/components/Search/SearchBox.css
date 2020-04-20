@@ -1,0 +1,31 @@
+.searchBox {
+    background: gray;
+    padding: 5px;
+    width: 100%;
+}
+
+label {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#searchText {
+    background: #F9E79F;
+    cursor: text;
+    text-align: left;
+    padding: 3px;
+    width: 40%;
+}
+
+#searchButton {
+    margin: 2px;
+    border-radius: 8px;
+    padding: 3px 12px;
+    border: 2px solid rgb(0, 12, 14);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+button:hover {
+    background: #85C1E9;
+}

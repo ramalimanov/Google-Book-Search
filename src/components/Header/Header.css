@@ -1,0 +1,10 @@
+.header {
+    background: rgb(40, 3, 252);
+    height: 8em;
+    display: flex;
+}
+
+h1 {
+    color: rgb(46, 252, 5);
+    margin: auto;
+}

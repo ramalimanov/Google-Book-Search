@@ -1,0 +1,10 @@
+.bookDisplay {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.bookList {
+    list-style: none;
+    padding: 5px;
+}
